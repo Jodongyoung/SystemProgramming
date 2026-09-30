@@ -1,1 +1,15 @@
 .idea/
+cmake-build-*/
+student
+dbcreate
+dbquery
+dbupdate
+task01
+task02
+*.o
+*student*
+dbcreate
+dbquery
+dbupdate
+task01
+task02
