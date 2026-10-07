@@ -60,3 +60,18 @@ add_executable(practice_5_6 ch05/practice/ex06/dbquery.c)
 add_executable(practice_5_7 ch05/practice/ex07/dbupdate.c)
 add_executable(homework_5_1 ch05/homework/task01/task01.c)
 add_executable(homework_5_2 ch05/homework/task02/task02.c)
+
+# ==========================================
+# Chapter 06: 파일 시스템 실습 및 과제
+# ==========================================
+add_executable(practice_6_1 ch06/practice/ex01/ftype.c)
+add_executable(practice_6_2 ch06/practice/ex02/fchmod.c)
+add_executable(practice_6_3 ch06/practice/ex03/cptime.c)
+add_executable(practice_6_4 ch06/practice/ex04/list_1.c)
+add_executable(practice_6_5 ch06/practice/ex05/list_2.c)
+add_executable(practice_6_6 ch06/practice/ex06/link.c)
+add_executable(practice_6_7 ch06/practice/ex07/unlink.c)
+add_executable(practice_6_8 ch06/practice/ex08/slink.c)
+add_executable(practice_6_9 ch06/practice/ex09/rlink.c)
+add_executable(homework_6_1 ch06/homework/task01/task01.c)
+add_executable(homework_6_2 ch06/homework/task02/list_opt.c)

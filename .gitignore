@@ -4,12 +4,10 @@ student
 dbcreate
 dbquery
 dbupdate
-task01
-task02
 *.o
 *student*
 dbcreate
 dbquery
 dbupdate
-task01
-task02
+ch05/homework/task01/task01
+ch05/homework/task02/task02
