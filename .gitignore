@@ -11,3 +11,17 @@ dbquery
 dbupdate
 ch05/homework/task01/task01
 ch05/homework/task02/task02
+
+# 빌드 및 컴파일 바이너리 제외
+cmake-build-debug/
+.idea/
+*.o
+ch08/**/main
+ch09/**/main
+ch09/**/week9-17
+ch10/**/main
+ch10/**/stud1
+ch10/**/stud2
+ch10/**/mem
+ch11/**/main
+ch12/**/main

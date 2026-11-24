@@ -1,0 +1,6 @@
+합계 24
+-rwxrwxr-x 1 user1 user1 16800 11월  4 10:26 main
+-rw-rw-r-- 1 user1 user1  2276 11월  4 10:26 main.c
+-rw-rw-r-- 1 user1 user1     0 11월 11 10:38 out.txt
+-rw-rw-r-- 1 user1 user1     0 11월  4 10:46 outfile
+-rw-rw-r-- 1 user1 user1     0 11월  4 10:46 outfile:

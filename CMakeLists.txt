@@ -75,3 +75,15 @@ add_executable(practice_6_8 ch06/practice/ex08/slink.c)
 add_executable(practice_6_9 ch06/practice/ex09/rlink.c)
 add_executable(homework_6_1 ch06/homework/task01/task01.c)
 add_executable(homework_6_2 ch06/homework/task02/list_opt.c)
+# ================= 10장 실습 및 과제 =================
+add_executable(ch10_train1 ch10/train_1/stud1.c)
+add_executable(ch10_train2 ch10/train_2/stud2.c)
+add_executable(ch10_train3 ch10/train_3/mem.c)
+add_executable(ch10_task01 ch10/homework/task01/main.c)
+add_executable(ch10_task02 ch10/homework/task02/main.c)
+
+# ================= 11장 및 12장 과제 =================
+add_executable(ch11_task01 ch11/homework/task01/main.c)
+add_executable(ch12_task01 ch12/homework/task01/main.c)
+add_executable(ch12_task02 ch12/homework/task02/main.c)
+add_executable(ch12_task03 ch12/homework/task03/main.c)
